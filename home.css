@@ -103,6 +103,7 @@ h1{
 }
 .con form input{
     width: 290px;
+    color: beige;
     height: 40px;
     padding-left: 10px;
     outline: none;
