@@ -167,6 +167,11 @@ textarea::-webkit-scrollbar-thumb{
     border: solid rrgb(4, 4, 4);
     justify-content: center;
     width: 33%;
+    height: 70vh;
+    transition: transform 0.3s;
+ }
+ .ser .s:hover{
+  transform: translate(-10px);
  }
  .ser .e{
     border: solid grerren;

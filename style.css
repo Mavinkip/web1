@@ -86,3 +86,18 @@ header h1{
 .shel .sh img{
   size: 1000px;
 }
+button{
+    background: red;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    transition: .4s;
+    height: 7vh;
+    width: 10%;
+
+}
+button:hover{
+    background: transparent;
+    border: 2px solid red;
+    }
