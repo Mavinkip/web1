@@ -10,8 +10,10 @@ body{
 header{
     background-color: rgb(22, 21, 21);
 }
-.header nav{
+nav{
     position: fixed-top;
+    display: flex;
+    flex-direction: row;
 }
 li{
     display: inline-block;
