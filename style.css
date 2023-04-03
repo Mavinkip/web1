@@ -44,7 +44,7 @@ header h1{
     flex-direction: column;
 }
 .top.container{
-    border: solid green;
+    border: solid grReen;
     width: 100%;
     height: 60vh;
     align-items: center;
